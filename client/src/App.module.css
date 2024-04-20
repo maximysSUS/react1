@@ -1,0 +1,15 @@
+h1 {
+	color: #fff;
+}
+
+.container {
+	width: 600px;
+	height: 400px;
+	background: lightcoral;
+	border: 4px solid lime;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 10px;
+}
